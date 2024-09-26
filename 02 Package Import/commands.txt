@@ -1,0 +1,19 @@
+Step 1:
+
+    Java-Hands-On\02 Package Import>javac -d . Folder1/Date.java
+
+Step 2:
+
+    Java-Hands-On\02 Package Import>set classpath=.
+
+Step 3:
+
+    Java-Hands-On\02 Package Import>javac -d . Folder2/Calender.java
+
+Step 4:
+
+    Java-Hands-On\02 Package Import>java com.mypack.Calender
+
+output:
+    >Hello, calender
+    >Hello World FROM displayMessage
